@@ -8,3 +8,5 @@ alias gs='git status'
 alias f='flutter'
 alias fgen='genhtml coverage/lcov.info -o coverage/html'
 
+# docker compose
+alias dcp='docker-compose'
